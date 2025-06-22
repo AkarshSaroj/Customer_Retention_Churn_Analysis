@@ -22,8 +22,12 @@ This project analyzes customer churn behavior using Python and Power BI. It iden
 
 ### 🔹 From Python (churn_analysis.py)
 - Distribution of churn by `Subscription Type`
+- Churn distribution grouped by `Last Login Days`
 - Overall churn rate (%)
-- Stacked bar chart saved as `churn_by_subscription.png`
+- Saved visuals:
+  - `churn_by_subscription.png`
+  - `churn_by_last_login.png`
+
 
 ### 🔹 From Power BI
 - Page 1: **Churn by Subscription Type**
